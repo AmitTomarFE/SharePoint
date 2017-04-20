@@ -1,0 +1,82 @@
+#DeltaPlaceHolderMain,
+#DeltaPlaceHolderPageTitleInTitleArea {
+    padding-left:20px;
+}
+
+#HnRSection {
+    margin-top: -130px;
+}
+
+#colHeader {
+    width: 678px;
+    height: 20px;
+    text-align:center;
+    letter-spacing:1px;
+}
+
+#rowHeader {
+    height: 197px;
+    float: left;
+}
+
+#rowHeaderInner {
+    width:30px;
+    margin-top:122px;
+    letter-spacing:2px;
+      -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+#tblBody {
+    width: 650px;
+    height: 220px;
+    float: left;
+}
+
+#HnRTable td {
+    width:130px;
+    text-align:center;
+    height:40px;
+}
+
+.firstCol{
+	width:40px !important;
+}
+
+/*.noBorder{
+border:none !important;
+}*/
+
+.bigFont {
+    font-weight:600;
+    font-size:16px;
+}
+
+.axisLabels {
+    background-color:#191919;
+    color:white;
+    padding:10px;
+}
+
+.boldFont {
+    font-weight:500;
+    font-size:15px;
+}
+
+.slateColor {
+    background-color:#F1F3F4;
+}
+
+.peachColor {
+    background-color:#FFEDCC;
+}
+
+.brownColor {
+    background-color:#FCECDF;
+}
+.pinkColor {
+    background-color:#ffe4e1;
+}
